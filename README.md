@@ -1,6 +1,12 @@
-# tictactoe
+# XOXO
 
-A new Flutter project.
+A multiplayer tictactoe game that works on android, ios, web, and desktop.
+
+## Tech Stack
+
+<b>Server:</b>  Node.js, Express, Socket.io, Mongoose, MongoDB 
+<br>
+<b>Client:</b>  Flutter, Provider
 
 ## Getting Started
 
